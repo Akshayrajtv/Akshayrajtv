@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akshayrajtv
 - 👀 I’m a Mernstack Developer
-- 3rd Year CSE student at CET, Trivandrum
-- 💞️ I’m looking for Internships.
+- 4th Year CSE student at CET, Trivandrum.
 - 📫 akrcetcs@gmail.com 
 
 <!---
